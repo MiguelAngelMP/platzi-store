@@ -11,6 +11,7 @@ git:
 script:
   - yarn build
 notifications:
+  slack: ejemplo-sru5737:5tir0dqSUQL4TTPLAePBa58a
   email:
     recipients:
       - mmunozpozos@gmail.com
